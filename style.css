@@ -1,23 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700');
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700;800;900&family=Quicksand:wght@300;400;500;600;700&display=swap');
 
-
-/* :root{
-  --Playfair: 'Playfair Display', serif;
-  --Quicksand: 'Quicksand', sans-serif;
-  --Roboto: 'Roboto', sans-serif;
-  --background: #fef6e4;
-  --headline: #001858;
-  --paragraph: #001858;
-  --button: #f582ae;
-  --buttonText: #001858;
-  --highlight: #fef6e4;
-  --secondary: #8bd3dd;
-  --tertiary: #f582ae;
-  --card: #f3d2c1;
-} */
-
-
 :root{
   --Playfair: 'Playfair Display', serif;
   --Quicksand: 'Quicksand', sans-serif;
