@@ -157,13 +157,14 @@ h1, h2, h3, h4, h5, h6 {
   @media (max-width: 992px) {
     .nav-menu a {
       width: 50px;
-      background-color: transparent!important;
+      background-color: initial;
+      
 
     }
     
     .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
       color: var(--buttonText);
-      background: transparent!important;
+      background: inherit!important;
     }
     
     
@@ -171,7 +172,7 @@ h1, h2, h3, h4, h5, h6 {
   
   .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
     color: var(--buttonText);
-    background:transparent!important;
+    background:inherit!important;
   }
   
   .nav-menu a:hover span, .nav-menu .active > a span, .nav-menu li:hover > a span {
